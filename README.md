@@ -3,7 +3,7 @@
 This definition mainly shows the distribution and density of points. The distribution of points is represented by boundary bubbles. Number bar can be used to control the size of the area representing the position of points. The density of points is represented by a square, the small direction indicates that the density here is high, and vice versa.
 
 Grasshopper definition：
-* ![Picture1](https://user-images.githubusercontent.com/88954942/130348088-d93e4a1b-eb5f-4777-89b5-c36f3c1817a0.jpg)
+![QQ截图20210822190813](https://user-images.githubusercontent.com/88954942/130352915-f3355e6e-c99a-494c-a6a6-34d03a370bde.jpg)
 ## Step
 * put the points of bicycle parking into 'points'
 * form the bicycle parking location and density map
